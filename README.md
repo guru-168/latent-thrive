@@ -154,5 +154,4 @@ Built with React · TypeScript · Vite · Framer Motion
 ```
 
 </p>
-```
 
