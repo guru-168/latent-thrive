@@ -1,4 +1,4 @@
-````markdown
+
 # LATENT
 
 > **You were never just scrolling.**
