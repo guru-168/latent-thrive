@@ -94,7 +94,7 @@ The experience is built around one question:
 
 LATENT unfolds as a progressive interactive journey.
 
-### 01 — THE SURFACE
+### 01 - THE SURFACE
 
 The experience begins as something familiar.
 
@@ -110,7 +110,7 @@ The system begins observing.
 
 ---
 
-### 02 — THE SIGNAL
+### 02 - THE SIGNAL
 
 Small interactions start becoming meaningful.
 
@@ -128,7 +128,7 @@ The interface gradually hints that something beneath the surface is responding t
 
 ---
 
-### 03 — THE CHOICE
+### 03 - THE CHOICE
 
 The user is presented with competing pieces of content.
 
@@ -142,7 +142,7 @@ What feels like a simple decision to the user becomes information for the system
 
 ---
 
-### 04 — DIVERGING PATHWAYS
+### 04 - DIVERGING PATHWAYS
 
 One decision creates different possible futures.
 
@@ -158,7 +158,7 @@ They see its consequences.
 
 ---
 
-### 05 — THE INTEREST FINGERPRINT
+### 05 - THE INTEREST FINGERPRINT
 
 The system constructs an algorithmic representation of the user's behavior.
 
@@ -180,7 +180,7 @@ But the distinction is important:
 
 ---
 
-### 06 — THE AUDIT
+### 06 - THE AUDIT
 
 The experience eventually turns itself inside out.
 
