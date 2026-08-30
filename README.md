@@ -53,47 +53,6 @@ The experience explores:
 
 ---
 
-## ✦ Getting Started
-
-### Prerequisites
-
-- Node.js
-- npm
-
-### Installation
-
-```bash
-git clone <your-repository-url>
-cd thrive--26
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-### Production Build
-
-```bash
-npm run build
-```
-
-### Preview
-
-```bash
-npm run preview
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
----
-
 ## ✦ Project Structure
 
 ```text
