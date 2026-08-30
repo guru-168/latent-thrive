@@ -156,5 +156,3 @@ Built with React · TypeScript · Vite · Framer Motion
 </p>
 ```
 
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
