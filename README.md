@@ -1,4 +1,3 @@
-
 # LATENT
 
 > **You were never just scrolling.**
@@ -33,7 +32,7 @@ The experience explores:
 - Counterfactual / diverging pathways
 - Interest fingerprint visualization
 - Telemetry and system-level feedback
-- Responsive interface
+- Responsive interaction design
 - Cinematic dark visual system
 - Purposeful micro-interactions
 
@@ -50,8 +49,7 @@ The experience explores:
 | Lucide React | Icons |
 | Oxlint | Linting |
 | Vercel | Deployment |
-
-Fonts: **Geist · JetBrains Mono**
+| Fonts | Geist · JetBrains Mono |
 
 ---
 
@@ -65,10 +63,10 @@ Fonts: **Geist · JetBrains Mono**
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone <your-repository-url>
 cd thrive--26
 npm install
-````
+```
 
 ### Development
 
@@ -114,21 +112,15 @@ src/
 
 LATENT follows a restrained visual system built around:
 
-* Near-black surfaces
-* Cyan and red system signals
-* Editorial typography
-* Monospace telemetry
-* Layered depth
-* Scroll-based motion
-* Minimal technical UI
+- Near-black surfaces
+- Cyan and red system signals
+- Editorial typography
+- Monospace telemetry
+- Layered depth
+- Scroll-based motion
+- Minimal technical UI
 
 The interface prioritizes **clarity, atmosphere, and interaction** over visual decoration.
-
----
-
-## ✦ Live
-
-**[https://latent-thrive.vercel.app](https://latent-thrive.vercel.app)**
 
 ---
 
@@ -151,7 +143,5 @@ Built with React · TypeScript · Vite · Framer Motion
 </sub>
 
 </p>
-```
-
 </p>
 
