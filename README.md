@@ -153,8 +153,6 @@ Built with React · TypeScript · Vite · Framer Motion
 </p>
 ```
 
-This is the direction I'd recommend: **short enough that a jury actually reads it, but complete enough that a developer understands the project immediately.**
-
 </p>
 ```
 
